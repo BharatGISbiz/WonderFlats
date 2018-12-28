@@ -1,0 +1,4 @@
+1. First Scenarion will work for Login to the application and If you wants to login with your details then just change the Email Address and Password in Examples.
+2.Second Scenario will work to Update the Account Information and if wants to change the data then change in examples datatable. Also next step verifies whether the updated information.
+3. Third Scenario is to check My Account Section is not accessable without Login.
+4. Last Scenario is to check when database is reset then user should not be able to login to the application
